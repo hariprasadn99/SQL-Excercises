@@ -1,4 +1,4 @@
-# SQL-Excercises
+# SQL-Exercises
 
 #### This Repository contains solutions to some SQL excercises with the link to the database given below -
 
