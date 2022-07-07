@@ -1,0 +1,20 @@
+1. List the customer who does not have any orders 
+2. Give customer wise number of orders.
+3. Who are the customers having at least 5 orders.
+4. lists the suppliers with a product price less than 20
+5. Name the Supplier who supplies Aniseed Syrup
+6. Name the product which has the highest price along with the customer who ordered the same.
+7. Lists all customers and suppliers along with their city & contact info.
+8. List all products with a price BETWEEN 10 and 20 and not in category 1, 2, 4.
+9. lists the number of customers in each City and each country
+10. lists the number of orders sent by each shipper
+11. Who is the Shipper who sent highest no of orders?
+12. Which is the most expensive product?
+13. List all customers, and any orders they might have
+14. list the number of customers in each country, sorted high to low (Only include countries with more than 10 customers)
+15. lists the product names if quantity ordered is more than 90
+16. Name the customer/s who is having more than 2 orders.
+17. Who is the contact person for Specialty Biscuits, Ltd.
+18. Which order is having least quantity?
+19. How many products are there with price more than 50
+20. Who supplies Tofu
